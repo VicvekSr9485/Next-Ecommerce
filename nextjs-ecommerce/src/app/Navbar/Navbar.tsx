@@ -28,7 +28,8 @@ export default async function Navbar() {
                 <div className="flex-1">
                     <Link href="/" className="btn btn-ghost text-xl normal-case">
                         <Image src={logo} height={40} width={40} alt="Cartizon logo" />
-                        Cartizon
+                                Cartizon
+                        Simplify Shopping, Amplify Savings
                     </Link>
                 </div>
                 <div className="flex-nonev gap-2">
