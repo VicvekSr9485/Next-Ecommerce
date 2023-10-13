@@ -9,7 +9,7 @@ const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
   title: 'Cartizon',
-  description: 'We make your wallet cry',
+  description: 'Simplify Shopping, Amplify Savings',
 }
 
 export default function RootLayout({
